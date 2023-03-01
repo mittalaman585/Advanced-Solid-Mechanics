@@ -31,4 +31,6 @@ Differential Equations of Equilibrium, Hydrostatic and Deviatoric Components.
 4. Computational Elasticity, Ameen M., Narosa
 5. Solid Mechanics, KazimiS. M. A., Tata McGraw Hill
 6. Advanced Mechanics of Solids, Srinath L. S., Tata McGraw Hill
-1. Theory of Elasticity Paperback, Singh Sadhu, Khanna Publishers
+7. Theory of Elasticity Paperback, Singh Sadhu, Khanna Publishers
+8. Advanced Mechanics of Materials and Applied Elasticity, ANSEL C. UGURAL
+, SAUL K. FENSTER
